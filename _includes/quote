@@ -1,0 +1,13 @@
+{% if include.color and include.color != blank %}
+  {% capture notice_class %}notice--{{include.color}}{% endcapture %}
+{% else %}
+  {% assign notice_class = "notice" %}
+{% endif %}
+
+<div class="{{notice_class}}">
+<p style="font-style:italic">“{{ include.text }}”</p>
+{% if include.attribution and include.attribution != blank %}
+<div class="align-right">—{{ include.attribution }}</div>
+<div class="cf"></div>
+{% endif %}
+</div>

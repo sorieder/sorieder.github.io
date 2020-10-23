@@ -3,9 +3,34 @@ main:
     url: /
   - title: "About"
     url: /about
-  - title: "Exile and Community: The Life of Carola Domar"
+  - title: "Contact"
+    url: /contact
+  - title: "Carola Domar"
     url: /carola-domar
-  - title: "The Making Of Joe Wheeler: A Concord Story"
+  - title: "Joe Wheeler"
     url: /joe-wheeler
-  - title: "Sergeant Martin S. Yauga"
+  - title: "Martin Yauga"
     url: /martin-s-yauga
+films:
+  - title: "Exile and Community"
+    children:
+      - title: "About the Film"
+        url: /carola-domar
+      - title: "Teacher's Guide"
+        url: /carola-domar/teachers-guide
+      - title: "Screenings"
+        url: /carola-domar/screenings
+      - title: "Testimonials"
+        url: /carola-domar/testimonials
+  - title: "Joe Wheeler"
+    children:
+      - title: "About the Film"
+        url: /joe-wheeler
+      - title: "Screenings"
+        url: /joe-wheeler/screenings
+      - title: "Testimonials"
+        url: /joe-wheeler/testimonials
+  - title: "Sergeant Martin S. Yauga"
+    children:
+      - title: "About the Film"
+        url: /martin-s-yauga
