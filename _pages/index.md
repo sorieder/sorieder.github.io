@@ -35,7 +35,7 @@ domar_all:
 domar:
   - image_path: /assets/images/domar_w_daughter_ls_sm.jpg
     alt: "placeholder image 2"
-    title: "Exile And Community: The Life Of Carola Domar"
+    title: "Exile And Community:<br />The Life Of Carola Domar"
     excerpt: "FILM AND EDUCATIONAL GUIDE. A story of reconciliation chronicling a young Jew's experience in Nazi Germany, her escape from fascism, and her search for community. Told by the subject and her adult daughter, largely from a young person's perspective."
     url: "/carola-domar"
     btn_label: "About the Film and Guide"
@@ -43,7 +43,7 @@ domar:
 wheeler:
   - image_path: /assets/images/wheeler_portrait_sm.jpg
     alt: "placeholder image 2"
-    title: "The Making Of Joe Wheeler: A Concord Story"
+    title: "The Making Of Joe Wheeler:<br />A Concord Story"
     excerpt: 'Born in 1926, Joe Wheeler spent most of his life abroad, helping others through the U.S. Agency for International Development (USAID), the Peace Corps, and the United Nations; his character was forged on a small farm in the historic town of Concord, MA, during WWII.'
     url: "/joe-wheeler"
     btn_label: "About the Film"
@@ -52,7 +52,7 @@ yauga:
   - image_path: /assets/images/yauga_portrait_ls_sm.jpg
     alt: "placeholder image 2"
     title: "Sergeant Martin S. Yauga"
-    excerpt: 'The first-hand account of an underage teen who enlisted in the Marines, and saw combat as a sniper in the South Pacific during World War II, earning, among other citations, two Purple Hearts.'
+    excerpt: 'The first-hand account of an underage teen who enlisted in the Marines, and saw combat as a sharpshooter in the South Pacific during World War II, earning, among other citations, two Purple Hearts.'
     url: "/martin-s-yauga"
     btn_label: "About the Film"
     btn_class: "btn--primary"

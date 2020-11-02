@@ -17,10 +17,10 @@ header:
 # Testimonials
 
 ## Comments from sponsors:
-{% include quote text="We chose to co-sponsor the documentary Exile and Community: The Life of Carola Domar because it offers a view of a story of struggle in a human way that resonates with struggles today. This documentary does a wonderful job of raising questions of identity and belonging and the human need to be connected. Seeing it would benefit students no matter where they live." attribution="Judi Bohn, Facing History, Special Projects Coordinator, New England, May 2019
+{% include quote text="We chose to co-sponsor the documentary <span style=\"font-style: normal;\">Exile and Community: The Life of Carola Domar</span> because it offers a view of a story of struggle in a human way that resonates with struggles today. This documentary does a wonderful job of raising questions of identity and belonging and the human need to be connected. Seeing it would benefit students no matter where they live." attribution="Judi Bohn, Facing History, Special Projects Coordinator, New England, May 2019
 " %}
 
-{% include quote text="I have organized a number of forums here at the Concord Museum and in my two decades at the Kennedy Library—but none have been more satisfying and touching than the screening of Exile and Community and the ensuing discussion.  I hope the film gets the wide viewership it deserves, especially among students since the scenes that are so poignant are those of Carola as a young girl in Germany and then the manner in which she was welcomed home by students at the school she once attended." attribution="Tom Putman, Concord Museum, Edward W. Kane Executive Director, Concord, MA
+{% include quote text="I have organized a number of forums here at the Concord Museum and in my two decades at the Kennedy Library—but none have been more satisfying and touching than the screening of <span style=\"font-style: normal;\">Exile and Community</span> and the ensuing discussion.  I hope the film gets the wide viewership it deserves, especially among students since the scenes that are so poignant are those of Carola as a young girl in Germany and then the manner in which she was welcomed home by students at the school she once attended." attribution="Tom Putman, Concord Museum, Edward W. Kane Executive Director, Concord, MA
 " %}
 
 
