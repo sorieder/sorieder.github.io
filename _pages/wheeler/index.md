@@ -5,7 +5,7 @@ classes: wide
 permalink: /joe-wheeler
 sidebar:
   nav: "films"
-excerpt: "_Born in 1926, Joe Wheeler spent most of his life abroad, helping others through the U.S. Agency for International Development (USAID), the Peace Corps, and the United Nations; his character was forged on a small farm in the historic town of Concord, MA, during WWII._"
+excerpt: "_Born in 1926, Joe Wheeler spent most of his life abroad, helping others through the U.S. Agency for International Development (USAID), the Peace Corps, and the United Nations; his character was forged on a small farm in the historic town of Concord, MA, during World War II._"
 
 header:
   overlay_color: "#000"

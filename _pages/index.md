@@ -44,7 +44,7 @@ wheeler:
   - image_path: /assets/images/wheeler_portrait_sm.jpg
     alt: "placeholder image 2"
     title: "The Making Of Joe Wheeler:<br />A Concord Story"
-    excerpt: 'Born in 1926, Joe Wheeler spent most of his life abroad, helping others through the U.S. Agency for International Development (USAID), the Peace Corps, and the United Nations; his character was forged on a small farm in the historic town of Concord, MA, during WWII.'
+    excerpt: 'Born in 1926, Joe Wheeler spent most of his life abroad, helping others through the U.S. Agency for International Development (USAID), the Peace Corps, and the United Nations; his character was forged on a small farm in the historic town of Concord, MA, during World War II.'
     url: "/joe-wheeler"
     btn_label: "About the Film"
     btn_class: "btn--primary"

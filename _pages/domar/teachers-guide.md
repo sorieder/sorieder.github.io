@@ -18,7 +18,7 @@ header:
 
 # About the Guide
 
-This supplement to the film takes an interdisciplinary approach. It places Carola’s narrative in a historical context and connects her experience to current events. The guide prompts students to consider how we evaluate information, and how we remember and commemorate the past. This guide serves as a standalone unit or as an addition to existing curriculum.
+This supplement to the film takes an interdisciplinary approach. It places Carola’s narrative in a historical context and connects her experience to current events. The guide prompts students to consider how we evaluate information, and how we remember and commemorate the past. This guide serves as a standalone unit or as an addition to existing curricula.
 
 Contains graded prompts, optional activities, and an annotated bibliography.
 
