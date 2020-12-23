@@ -7,7 +7,7 @@
 <div class="{{notice_class}}">
 <p style="font-style:italic">“{{ include.text }}”</p>
 {% if include.attribution and include.attribution != blank %}
-<div class="align-right">—{{ include.attribution }}</div>
+<div class="align-right" style="width:75%; text-indent:-.8rem">—{{ include.attribution }}</div>
 <div class="cf"></div>
 {% endif %}
 </div>

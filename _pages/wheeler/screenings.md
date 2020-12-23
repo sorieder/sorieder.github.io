@@ -17,12 +17,8 @@ header:
 
 
 
-## Upcoming
-
-**November 12, 2020, 7 pm.**  
+**November 12, 2020**  
 Concord Museum, Concord, MA. Online screening and discussion.
 
-## Previous
-
-**May 30, 2020.**  
+**May 30, 2020**  
 Concord Free Public Library, Concord, MA. Premiere (online).

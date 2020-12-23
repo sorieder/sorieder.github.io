@@ -14,10 +14,10 @@ header:
 
 ---
 {% include video id="381356763" provider="vimeo" %}
+<br />
 
-{% include quote text="The documentary is informative, visually rich, emotionally moving, and intelligently seamed together..." attribution="Leslie Perrin Wilson, Former Curator, William Munroe Special Collections  
-Concord Free Public Library" color="primary" %}
-
+{% include quote text="The documentary is informative, visually rich, emotionally moving, and intelligently seamed together..." attribution="Leslie Perrin Wilson, Former Curator, William Munroe Special Collections,  
+Concord Free Public Library, Concord, MA" color="primary" %}
 
 ## About the Film
 
@@ -30,6 +30,6 @@ Joe was involved in promoting the Green Revolution, but he also focused on impro
 Joe’s story embodies the most useful sort of idealism and optimism, buttressed, as it is, by a sort of hands-on pragmatism and ability to understand the needs of people across the globe. His work remains important and relevant, as does his global approach. This film serves as an educational tool for young people and others.
 
 A nonprofit  project, supported by the **Concord Cultural Council**, **Concord-Carlisle Television**, **Minuteman Media Network**, and in collaboration with the **Concord Free Public Library**, Concord MA.
-Completed March 2014. <br /> **Run time:** 60 minutes
+Completed March 2020. <br /> **Run time:** 60 minutes
 {: .notice--info}
 

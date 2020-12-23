@@ -17,14 +17,14 @@ header:
 # Testimonials
 
 ## Comments from sponsors:
-{% include quote text="Thank you for giving us the opportunity to premiere your beautiful film about an extraordinary man. The combination of commentary as well as the fascinating images from a variety of sources, including the Library’s Special Collections, gave a comprehensive picture of Joe’s life and how Concord influenced him. We are thrilled that so many people viewed the film, and I hope that many more people will have the opportunity to see it." attribution="Sherry Forman Litwack, President, Concord Free Public Library Corporation" %}
+{% include quote text="Thank you for giving us the opportunity to premiere your beautiful film about an extraordinary man. The combination of commentary as well as the fascinating images from a variety of sources, including the Library’s Special Collections, gave a comprehensive picture of Joe’s life and how Concord influenced him. We are thrilled that so many people viewed the film, and I hope that many more people will have the opportunity to see it." attribution="Sherry Forman Litwack, President, Concord Free Public Library Corporation, Concord, MA" %}
 
 
  
-{% include quote text="The documentary is informative, visually rich, emotionally moving, and intelligently seamed together. The film really captured Joe's story and conveyed it effectively. I feel pleased and proud to have contributed to its making. Watching it was a joyful experience." attribution="Leslie Perrin Wilson, Former Curator, William Munroe Special Collections  
-Concord Free Public Library" %}
+{% include quote text="The documentary is informative, visually rich, emotionally moving, and intelligently seamed together. The film really captured Joe's story and conveyed it effectively. I feel pleased and proud to have contributed to its making. Watching it was a joyful experience." attribution="Leslie Perrin Wilson, Former Curator, William Munroe Special Collections,   
+Concord Free Public Library, Concord, MA" %}
 
-{% include quote text="The film was a beautifully crafted depiction of the life of a remarkable man! It was gorgeous!" attribution="Marcy Bouley Eckel, Director of Development, Concord Free Public Library Corporation" %}
+{% include quote text="The film was a beautifully crafted depiction of the life of a remarkable man! It was gorgeous!" attribution="Marcy Bouley Eckel, Director of Development, Concord Free Public Library Corporation, Concord, MA" %}
 
 
 ## Comments from viewers:
