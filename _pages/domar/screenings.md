@@ -17,17 +17,23 @@ header:
 # Screenings
 
 
+**July 22, 2021**  
+University of Massachusetts, Amherst, MA. Seminar for educators sponsored by The Olga Lengyel Institute for Holocaust Studies and Human Rights (TOLI). Online screening and discussion, moderated by TOLI seminar facilitators Cara Crandall and Momodou Sarr.
+
+**February 22, 2021**  
+University of Connecticut, Storrs. Online screening and discussion for the undergraduate course Human Rights and German Culture. Moderated by Sebastian Wogenstein, Associate Professor of German and Comparative Literature.
+
 **November 15, 2020**  
-The Olga Lengyel Institute for Holocaust Studies and Human Rights and Mass Humanities, online screening and discussion for educators. Moderated by Derek Penslar, William Lee Frost Professor of Jewish History, Harvard University and Cara Crandall, an Olga Lengyel Institute seminar facilitator.
+The Olga Lengyel Institute for Holocaust Studies and Human Rights (TOLI) and Mass Humanities. Online screening and discussion for educators. Moderated by Derek Penslar, William Lee Frost Professor of Jewish History, Harvard University and Cara Crandall, a TOLI seminar facilitator.
 
 **May 3, 2020**  
-Screening for Educators, Capitol Theatre, Arlington, MA. (Cancelled due to the pandemic.)
+Capitol Theatre, Arlington, MA. Screening for educators. (Cancelled due to the pandemic.)
 
 **April 27, 2020**  
-Screening for Educators, Institute for Holocaust, Genocide and Memory Studies, UMASS, Amherst, MA. (Cancelled due to the pandemic.)
+Institute for Holocaust, Genocide and Memory Studies, University of Massachusetts, Amherst, MA. Screening for educators. (Cancelled due to the pandemic.)
 
 **March 15, 2020**  
-Congregation B'nai Israel, Northampton, MA. (Postponed due to the pandemic.)
+Congregation B'nai Israel, Northampton, MA. (Cancelled due to the pandemic.)
 
 **January 19, 2020**  
 Trinity Episcopal Church, Concord, MA
@@ -39,7 +45,7 @@ World Fellowship Center, Albany, NH
 Concord Museum, Concord, MA. Co-sponsored by Facing History and Ourselves. 
 
 **April 23, 2019**  
-Granite State College, Concord, NH for the course: “Courage and Conscience During the Third Reich.”
+Granite State College, Concord, NH for the course: Courage and Conscience During the Third Reich.
 
 **March 26, 2019**  
 Unitarian Universalist Congregation of the Eastern Slopes, Tamworth, NH

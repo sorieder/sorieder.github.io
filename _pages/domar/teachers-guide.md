@@ -19,6 +19,13 @@ header:
 
 {% include quote text="The guide is exceptionally well researched, designed, and written. A thoughtfully prepared and rich resource for teachers and students, it will be of good use in any classroom where historical depth, lived experience, and reflection on our own times are valued. I look forward to using parts of it in my own teaching, and I am deeply honored that I could contribute to its production in some small ways." attribution="Sebastian Wogenstein, Teacher's Guide Editor, Associate Professor of German and Comparative Literature, University of Connecticut, Storrs" color="primary" %}
 
+
+{% include quote text="For many years, the Holocaust was something unimaginable to me. In middle school, I learned about it in history books, and could hardly comprehend that such devastation could have come out of real life. Visiting the Holocaust Museum in Washington, D.C. changed that for me. Suddenly, the history was embedded in the lives of real people, and I felt like I was going through the confusion, pain, and suffering with them. Watching the
+documentary about the life of Carola Domar had the same energy for me." attribution="Rylee Thomas, Student, Undergraduate Course: Human Rights and German Culture, University of Connecticut, Storrs" color="primary" %}
+
+
+
+
 ## About the Guide
 
 This supplement to the film takes an interdisciplinary approach. It places Carola’s narrative in a historical context and connects her experience to current events. The guide prompts students to consider how we evaluate information, and how we remember and commemorate the past. This guide serves as a standalone unit or as an addition to existing curricula.

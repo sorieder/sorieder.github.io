@@ -7,7 +7,7 @@ bio:
   - image_path: /assets/images/bio_portrait_ls_sm.jpg
     alt: "Portrait of Susan Rieder"
     title: 'Susan Orleans Rieder<br /><span style="font-style: italic; font-weight: 400; font-size: 0.8em">Documentary Filmmaker</span>'
-    excerpt: "Specializing in oral histories that explore the World War II era from a personal perspective. These films are designed to educate young people, but have a wide appeal. They present narratives of individual experience using a contextual approach that incorporates commentary and archival images to deepen our understanding of well-known events."
+    excerpt: "Susan's recently completed series uses oral histories to explore the World War II era from personal perspectives. These films are designed to educate young people, but have a wide appeal. They present narratives of individual experience using a contextual approach that incorporates commentary and archival images to deepen our understanding of well-known events."
     url: "/about"
     btn_label: "About"
     btn_class: "btn--primary"

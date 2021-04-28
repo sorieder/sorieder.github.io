@@ -22,6 +22,8 @@ films:
         url: /carola-domar/screenings
       - title: "Testimonials"
         url: /carola-domar/testimonials
+      - title: "Student Work Samples"
+        url: /carola-domar/student-work
   - title: "Joe Wheeler"
     children:
       - title: "About the Film"
