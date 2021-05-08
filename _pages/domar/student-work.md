@@ -14,7 +14,7 @@ header:
 
 ---
 
-# Student Samples: Written Responses to the Film
+# Students' Written Responses to the Film
 
 
 Assignment for the University of Connecticut, Storrs undergraduate course Human Rights and German Culture (GERM 1175), taught by Professor Sebastian Wogenstein:
@@ -30,7 +30,7 @@ Note: Most of the following student responses have been condensed or excerpted.
 {% include quote text="For many years, the Holocaust was something unimaginable to me. In middle school, I learned about it in history books, and could hardly comprehend that such devastation could have come out of real life. Visiting the Holocaust Museum in Washington, D.C. changed that for me. Suddenly, the history was embedded in the lives of real people, and I felt like I was going through the confusion, pain, and suffering with them. Watching the documentary about the life of Carola Domar had the same energy for me. I felt Carola's horror and frustration when she was ripped away from the school where she'd been a leader of a group that had given her, for so many years, a sense of belonging. 
 <br />
 <br />
-One of the most touching, terrifying aspects of her story was the way she'd escaped death by chance, over and over again. Throughout the film, Carola continually emphasized how fortunate she was to be alive. As I watched her choose to go to England instead of the camp in Holland, which was soon decimated, and saw her boat commandeered as a war vessel, I felt the bitter truth of this statement time and time again. The uncertainty of Carola Domar's life as a refugee reminded me of the experience conveyed by the documentary Fuocoammare, in which so many migrants died, or barely escaped death, trying to flee the oppression they faced in their native countries.
+One of the most touching, terrifying aspects of her story was the way she'd escaped death by chance, over and over again. Throughout the film, Carola continually emphasized how fortunate she was to be alive. As I watched her choose to go to England instead of the camp in Holland, which was soon decimated, and saw her boat commandeered as a war vessel, I felt the bitter truth of this statement time and time again. The uncertainty of Carola Domar's life as a refugee reminded me of the experience conveyed by the documentary <span style=\"font-style: normal;\">Fuocoammare</span>, in which so many migrants died, or barely escaped death, trying to flee the oppression they faced in their native countries.
 <br />
 <br />
 The documentary on the life of Carola Domar also drove home the vital importance of creating a type of international law that would prevent genocide from happening again. Institutions such as the ICC (the International Criminal Court), if made more functional and efficient, could fill that void.
@@ -99,7 +99,7 @@ It's especially interesting to hear Carola's own experience with her religion as
 2) Another question I have is: Why do you think it was important to Carola to forgive others even after all that she went through?" attribution="Caitlyn Thorpe" %}
 
 
-{% include quote text="The documentary Exile and Community: The Life of Carola Domar is obviously very powerful. One scene I found to be particularly powerful was when Carola describes not feeling any different than anyone else, 'until 1933, when it was really pointed out to me [Carola] that I was different.' 
+{% include quote text="<span style=\"font-style: normal;\">Exile and Community: The Life of Carola Domar</span> is obviously very powerful. One scene I found to be particularly powerful was when Carola describes not feeling any different than anyone else, 'until 1933, when it was really pointed out to me [Carola] that I was different.' 
 <br />
 <br />
 The two things that are the most thought provoking for me are: first, how quickly the time line of change was for Carola and her life; and second, how despite her family's wealth and status in pre-Hitler Germany their lives completely fell apart.
