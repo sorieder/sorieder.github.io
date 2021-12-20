@@ -7,7 +7,7 @@ bio:
   - image_path: /assets/images/bio_portrait_ls_sm.jpg
     alt: "Portrait of Susan Rieder"
     title: 'Susan Orleans Rieder<br /><span style="font-style: italic; font-weight: 400; font-size: 0.8em">Documentary Filmmaker</span>'
-    excerpt: "Susan's recently completed series uses oral histories to explore the World War II era from personal perspectives. These films are designed to educate young people, but have a wide appeal. They present narratives of individual experience using a contextual approach that incorporates commentary and archival images to deepen our understanding of well-known events."
+    excerpt: "Susan's recently completed series uses oral histories to explore the World War II era from personal perspectives, deepening our understanding of well-known events. Commentary and archival images supplement these narratives, providing historical context.<br /><br />Her current project, *Why We Dance* (working title), is a feature length film about the biological incentives for dance—the connections between music, movement, and the brain. Release date TBA."
     url: "/about"
     btn_label: "About"
     btn_class: "btn--primary"
