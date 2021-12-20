@@ -17,6 +17,9 @@ header:
 # Screenings
 
 
+**October 5, 2021**  
+University of Connecticut, Storrs. Online screening and discussion for the undergraduate course Human Rights and German Culture. Moderated by Sebastian Wogenstein, Associate Professor of German and Comparative Literature.
+
 **July 22, 2021**  
 University of Massachusetts, Amherst, MA. Seminar for educators sponsored by The Olga Lengyel Institute for Holocaust Studies and Human Rights (TOLI). Online screening and discussion, moderated by TOLI seminar facilitators Cara Crandall and Momodou Sarr.
 
