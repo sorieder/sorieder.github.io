@@ -7,9 +7,17 @@ bio:
   - image_path: /assets/images/bio_portrait_ls_sm.jpg
     alt: "Portrait of Susan Rieder"
     title: 'Susan Orleans Rieder<br /><span style="font-style: italic; font-weight: 400; font-size: 0.8em">Documentary Filmmaker</span>'
-    excerpt: "Susan's recently completed series uses oral histories to explore the World War II era from personal perspectives, deepening our understanding of well-known events. Commentary and archival images supplement these narratives, providing historical context.<br /><br />Her current project, *Why We Dance* (working title), is a feature length film about the biological incentives for dance—the connections between music, movement, and the brain. Release date TBA."
+    excerpt: "Susan's recently completed series uses oral histories to explore the World War II era from personal perspectives, deepening our understanding of well-known events. Commentary and archival images supplement these narratives, providing historical context.<br /><br />Her current project, *Why We Dance* (working title), is a feature length film that explores how we are born to dance from both a cultural and biological perspective. Release date TBA."
     url: "/about"
     btn_label: "About"
+    btn_class: "btn--primary"
+dance:
+  - image_path: /assets/images/dance_bw_ls_sm.jpg
+    alt: "Why We Dance"
+    title: "Why We Dance (working title)"
+    excerpt: "Why do we dance? This film explores how we are born to dance from both a cultural and a biological perspective, incorporating the personal stories of diverse dancers to link scientific concepts to lived experience. We consider whether animals dance, and the connections between music, dance, community, and health."
+    url: "/dance"
+    btn_label: "About the Film"
     btn_class: "btn--primary"
 domar_all:
   - image_path: /assets/images/domar_w_daughter_ls_sm.jpg
@@ -59,6 +67,8 @@ yauga:
 ---
 
 {% include feature_row id="bio" type="left" %}
+
+{% include feature_row id="dance" type="right" %}
 
 {% include feature_row id="domar" type="right" %}
 

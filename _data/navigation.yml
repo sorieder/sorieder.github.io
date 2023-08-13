@@ -5,6 +5,8 @@ main:
     url: /about
   - title: "Contact"
     url: /contact
+  - title: "Dance"
+    url: /dance
   - title: "Carola Domar"
     url: /carola-domar
   - title: "Joe Wheeler"
@@ -12,6 +14,10 @@ main:
   - title: "Martin Yauga"
     url: /martin-s-yauga
 films:
+  - title: "Why We Dance (Working Title)"
+    children:
+      - title: "About the Film"
+        url: /dance
   - title: "Exile and Community"
     children:
       - title: "About the Film"
