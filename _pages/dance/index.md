@@ -25,5 +25,5 @@ We all have the impulse to dance–it meets our need for community as social cre
 
 Our film incorporates the personal stories of diverse dancers to link scientific concepts to lived experience. In exploring dance from different cultures we come to appreciate how this universal activity has diverse forms and meanings. We examine the relationship between music, movement, and the brain, as well as the biological incentives for group activity. In considering how dance mitigates the effects of Parkinson’s Disease, we learn more about why we all have the impulse to move to a beat. Dance sets our species apart and helps define our humanity.
 
-Work in Progress <br /> Release date TBA <br /> **Run time:** 90 minutes
+Work in progress, fiscal sponsor: the **Center for Independent Documentary** <br /> Release date TBA <br /> **Run time:** 90 minutes
 {: .notice--info}
