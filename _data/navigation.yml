@@ -18,6 +18,8 @@ films:
     children:
       - title: "About the Film"
         url: /dance
+      - title: "Screenings"
+        url: /dance/screenings
   - title: "Exile and Community"
     children:
       - title: "About the Film"
