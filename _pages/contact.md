@@ -7,6 +7,4 @@ permalink: /contact
 
 # Contact
 
-Use this form to contact Susan.
-
-{% include contact endpoint="https://formspree.io/f/mpzodklw" %}
+Please reach me via email at [{{ site.email }}](mailto:{{ site.email }}).
