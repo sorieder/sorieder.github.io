@@ -17,6 +17,9 @@ header:
 # Screenings
 
 
+**June 1, 2026**  
+Elisabethenschule, Frankfurt am Main. Screening and discussion for students at the school Carola Domar was expelled from for being Jewish. Organized through the City of Frankfurt in coordination with Projekt Jüdisches Leben in Frankfurt. Moderated by Alice Domar, Projekt Jüdisches Leben staff and Elisabethenschule teacher Felicitas Liebenau, with Susan Rieder and Carola's granddaughter Sarah Domar Ostrow participating.
+
 **October 5, 2021**  
 University of Connecticut, Storrs. Online screening and discussion for the undergraduate course Human Rights and German Culture. Moderated by Sebastian Wogenstein, Associate Professor of German and Comparative Literature.
 
